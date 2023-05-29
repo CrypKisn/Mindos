@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mediacorp</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Mediacorp</h1>
+    </div>
+    <main>
+        <h2>Welcome to our website!</h2>
+        <p>This is a basic layout for a Mediacorp website.</p>
+    </main>
+
+    <!-- Mindverse Web Widget -->
+    <script id="mv-client-messenger-widget" src="https://cdn.mindverse.com/container/script.js" defer>
+    https://mindos.mindverse.ai/gate,c1e0n,os_50dd6896-4504-4a61-ba73-f4e61d17e219,113313777579069440
+    </script>
+</body>
+</html>
